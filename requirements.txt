@@ -1,9 +1,8 @@
 streamlit
 pillow
-easyocr
+pytesseract
+pdfplumber
 python-docx
-pdf2docx
-pymupdf
 pandas
 openpyxl
 python-pptx
