@@ -1,0 +1,9 @@
+streamlit
+pillow
+easyocr
+python-docx
+pdf2docx
+pymupdf
+pandas
+openpyxl
+python-pptx
