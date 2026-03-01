@@ -20,8 +20,7 @@ A web-based document conversion platform built with Streamlit.
 - python-pptx
 - pandas
 
-## Live App
-(Insert your Streamlit link here)
+
 
 ## Installation (Local)
 pip install -r requirements.txt
